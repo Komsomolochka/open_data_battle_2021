@@ -4,3 +4,41 @@
 * Определить статистику случаев заражения в разных частях света (столбец continent) за каждый месяц
 * Определить корреляцию каждой части света с другой.
 * Вывести название части света, которая меньше всего коррелирует с другими
+
+
+## Описание полей
+* date	Дата
+* continent	Часть света
+* location	Местоположение
+* total_cases	Общее количество случаев
+* new_cases	Новые случаи заражения
+* new_cases_smoothed	Новые случаи заражения сглаженно
+* total_deaths	Общее количество смертей
+* new_deaths	Количество новых смертей
+* new_deaths_smoothed	Количество смертей сглаженно
+* total_cases_per_million	Число случаев заражения на миллион
+* new_cases_per_million	Новые случаи заражения на миллион
+* new_cases_smoothed_per_million	Новые случаи заражения на миллион сглаженно
+* total_deaths_per_million	Число смертей на миллион
+* new_deaths_per_million	Число новых смертей на миллион
+* new_deaths_smoothed_per_million	Число новых смертей на миллион сглаженно
+* total_tests	Число тестов
+* new_tests	Число новых тестов
+* total_tests_per_thousand	Количество тестов на тысячу
+* new_tests_per_thousand	Количество новых тестов на тысячу
+* new_tests_smoothed	Количество новых тестов сглаженно
+* new_tests_smoothed_per_thousand	Количество новых тестов на тысячу сглаженно
+* tests_per_case	Число тестов на случай заражения
+* positive_rate	Число положительных результатов
+* tests_units	Число единиц тестов
+* stringency_index	Индекс строгости
+* population	Население
+* population_density	Плотность населения
+* median_age	Средний возраст
+* aged_65_older	Число людей старше 65
+* aged_70_older	Число людей старше 70
+* gdp_per_capita	ВВП на душу населения
+* extreme_poverty	Крайняя бедность
+* cardiovasc_death_rate	Уровень смертности от сердечно-сосудистых заболеваний
+* diabetes_prevalence	Распространененность диабета
+* female_smokers	Число курящих женщин
